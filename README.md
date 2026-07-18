@@ -85,7 +85,7 @@ Authentication-System/
 ## Clone Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/authentication-system.git
+git clone [https://github.com/YOUR_USERNAME/authentication-system.git](https://github.com/dhanawadepreeti97-creator/authentication-system.git)
 ```
 
 ```
@@ -248,25 +248,7 @@ Full Stack Web Development Intern
 
 ---
 
-# 📫 Connect With Me
-
-LinkedIn
-
-```
-(https://www.linkedin.com/in/preeti-dhanawade-212b612a3/)
-```
-
-GitHub
-
-```
-[https://github.com/dhanawadepreeti97-creator]
-```
-
-Email
-
-```
-dhanawadepreeti97@gmail.com
-```
+## 📫 Connect With Me - 💼 **LinkedIn:** [Preeti Dhanawade](https://www.linkedin.com/in/preeti-dhanawade-212b612a3/) - 💻 **GitHub:** [dhanawadepreeti97-creator](https://github.com/dhanawadepreeti97-creator) - 📧 **Email:** <dhanawadepreeti97@gmail.com>
 
 ---
 
