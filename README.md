@@ -248,7 +248,7 @@ Full Stack Web Development Intern
 
 ---
 
-## 📫 Connect With Me - 💼 **LinkedIn:** [Preeti Dhanawade](https://www.linkedin.com/in/preeti-dhanawade-212b612a3/) <br>💻 **GitHub:** [dhanawadepreeti97-creator](https://github.com/dhanawadepreeti97-creator) <br>📧 **Email:** <dhanawadepreeti97@gmail.com>
+## 📫 Connect With Me - <br>💼 **LinkedIn:** [Preeti Dhanawade](https://www.linkedin.com/in/preeti-dhanawade-212b612a3/) <br>💻 **GitHub:** [dhanawadepreeti97-creator](https://github.com/dhanawadepreeti97-creator) <br>📧 **Email:** <dhanawadepreeti97@gmail.com>
 
 ---
 
